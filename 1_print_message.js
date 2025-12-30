@@ -2,4 +2,4 @@
 
 let message = "Hello, Coders!"; // define variable
 
-console.log(message); // print the 
+console.log(message); // print the message 
