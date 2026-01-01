@@ -1,7 +1,7 @@
  
  // create a variable in js 
 
- const Id = 01  // define constant variable
+ const Id = 1  // define constant variable
 
  let userName = "Deep_sha"   // text vari
  var password = "012"
