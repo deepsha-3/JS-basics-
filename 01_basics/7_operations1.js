@@ -6,4 +6,4 @@ let str2 = "Corders!"
 
 let greeting = str1 + str2; 
 
-console.log("Greeting:", greeting); 
+console.log("Greeting:", greeting);  // string concatenation
