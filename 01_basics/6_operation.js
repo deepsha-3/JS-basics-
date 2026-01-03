@@ -1,5 +1,5 @@
 
-// perform diferent operations in JS
+// perform different operations in numbers using JS
 
 let num1 = 10 
 let num2 = 5;
