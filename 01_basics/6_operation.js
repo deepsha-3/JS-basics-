@@ -4,14 +4,13 @@
 let num1 = 10 
 let num2 = 5;
 
-console.log("num1 + num2 =", num1 + num2); // addition
+console.log("Add =", num1 + num2); // addition
 
-console.log("num1 - num2 =", num1 - num2); // subtraction
+console.log("Subtract =", num1 - num2); // subtraction
 
-console.log("num1 * num2 =", num1 * num2); // multiplication
+console.log("Multiply =", num1 * num2); // multiplication
+console.log("Divide =", num1 / num2); // division
 
-console.log("num1 / num2 =", num1 / num2); // division
+console.log("Modulus =", num1 % num2); // modulus
 
-console.log("num1 % num2 =", num1 % num2); // modulus
-
-console.log("num1 ** num2 =", num1 ** num2); // exponentiation
+console.log("Exponentiation =", num1 ** num2); // exponentiation
