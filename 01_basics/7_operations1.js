@@ -8,4 +8,7 @@ let greeting = str1 + str2;
 
 console.log("Greeting:", greeting);  // string concatenation
 
-// new js 
+
+// string length
+let length = greeting.length;
+console.log("Length of greeting:", length);
