@@ -1,7 +1,7 @@
 
 // string operations in JavaScript
 
-let string1 = "Hello"
+let string1 = "Hello "
 let string2 = "Coders!"
 
 // concatenation
