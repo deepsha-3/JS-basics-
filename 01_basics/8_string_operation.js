@@ -15,3 +15,4 @@ console.log("Length of Concatenated String:", strLength);
 
 // accessing characters
 console.log("First character:", string3[0]);
+console.log("Last character:", string3[strLength - 1]);
